@@ -131,9 +131,3 @@ When using this command:
 - Formatting (bold, italic, lists) is preserved
 - Works with any heading level that contains phase references
 - Case sensitivity is preserved for the phase naming convention
-
-## Related Commands
-
-- `/dedupe` - Clean up duplicated content in plans
-- Other planning tools for architectural decisions
-
